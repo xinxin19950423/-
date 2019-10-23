@@ -2,7 +2,7 @@
 epoll_server.py 完成tcp并发
 重点代码
 """
-from socket import *
+从 套接字 导入哈哈哈哈 *
 from select import *
 
 # 创建套接字，作为关注的IO
